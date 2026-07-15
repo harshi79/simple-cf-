@@ -1,0 +1,6 @@
+#yorifederation
+[build]
+builder = "dockerfile"
+
+[deploy]
+sleepApplication = true
